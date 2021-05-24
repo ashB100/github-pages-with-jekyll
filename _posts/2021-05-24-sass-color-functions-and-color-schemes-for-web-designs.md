@@ -1,3 +1,8 @@
+---
+title: Using Sass Color Functions and Color Schemes for Web Designs
+date: 2014-07-11
+---
+
 I recently did a course called Fundamentals of Design by CodeSchool, which is why I have been pretty excited about experimenting with colors. Sass provides really useful color utility functions to manipulate color easily from the Sass code.
 
 I've done a couple of demos using Sass Color functions.
