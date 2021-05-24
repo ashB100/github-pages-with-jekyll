@@ -1,5 +1,5 @@
 ---
-title: Using Sass Color Functions and Color Schemes for Web Designs
+title: "Using Sass Color Functions and Color Schemes for Web Designs"
 date: 2014-07-11
 ---
 
